@@ -1,5 +1,16 @@
 # BÀI TẬP THỰC HÀNH
 ````markdown
+# BỐI CẢNH
+Tôi là một cá nhân có thu nhập biến động mỗi tháng và đang có một số khoản nợ cần thanh toán.
+Tôi cần một trợ lý AI thông minh lập kế hoạch tài chính chi tiết, tối ưu hóa dòng tiền và đề xuất
+phân bổ ngân sách chi tiêu hợp lý. Bài toán có nhiều phép tính số học và ràng buộc tài chính
+(tiết kiệm tối thiểu 20%, trả nợ đúng hạn, có quỹ dự phòng), nên nếu trả lời ngay đáp án sẽ rất
+dễ sai lệch số liệu. Vì vậy bạn cần suy luận từng bước và kiểm tra lại các phép tính.
+
+# NHIỆM VỤ
+Hãy lập kế hoạch tài chính hàng tháng chi tiết cho tôi dựa trên dữ liệu đầu vào bên dưới
+(Thu nhập, Chi phí cố định, Các khoản nợ, Mục tiêu tiết kiệm). Mục tiêu: tối ưu dòng tiền,
+trả nợ đúng hạn, đạt mức tiết kiệm tối thiểu 20% và đề xuất phân bổ ngân sách hợp lý.
  
 # DỮ LIỆU ĐẦU VÀO
 Được cho ví dụ:
